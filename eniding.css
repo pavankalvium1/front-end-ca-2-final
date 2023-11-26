@@ -1,0 +1,35 @@
+body{
+  background-image: url(https://imgs.search.brave.com/TTusVEA9JPWMT1aNe_feIJYyjQXr8idwuCo0CSmQrYY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2U1L2Ez/L2Y5L2U1YTNmOWZl/YmNmOWQ5MzM1ZTFl/YWYxY2UyNWI5NGZi/LmpwZw);
+}
+#playbtn{
+  width:98vw;
+  display: flex;
+  justify-content: center;
+  margin-top: 10vh;
+  
+}
+img{
+  width: 50vh;
+   margin-top: 20vh;
+   margin-left: 20vh;
+
+}
+#container {
+  position: relative;
+  width: 100%;
+  height: auto;
+ }
+ 
+ #center-image {
+  display: block;
+  margin: 0 auto;
+  width: 50%;
+  height: auto;
+ }
+
+ #playagain{
+  font-size: 20px;
+  font-style: italic;
+  border-radius: 45px;
+  padding:20px;
+ }
